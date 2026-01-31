@@ -14,7 +14,7 @@
 ## 🎥 Project Demo (The "Logic Lock" System)
 *(Click the link below to watch the 30-second logic demo)*
 
-[**▶️ Watch the Demo Video on LinkedIn**](YOUR_LINKEDIN_OR_YOUTUBE_VIDEO_LINK_HERE)
+[**▶️ Watch the Demo Video on LinkedIn**] (https://www.linkedin.com/posts/maliha-shafi-4352a2330_dataengineering-machinelearning-python-activity-7423334891301261312-i0sO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFNWEekBYRqnjadSVNSsZpfxwheYVfCW1fA))
 
 ---
 
